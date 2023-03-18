@@ -1,10 +1,10 @@
 <img src="https://camo.githubusercontent.com/d6ebdf0be8c981a367c8226b0c0554db04a3235f4018c75ad1951fd67be61cc4/68747470733a2f2f6a75736d61726b746563682e636f6d2f7075626c69632f612f696d616765732f70616765732f7765625f646576656c6f706d656e742e676966" />
+
+
 <h1 align="center">Hi 👋, I'm Mihir Kalariya</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalariyamihir&label=Profile%20views&color=0e75b6&style=flat" alt="kalariyamihir" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalariyamihir" alt="kalariyamihir" /></a> </p>
 
 - 📫 How to reach me **mihirkalariya7126@gmail.com**
 
