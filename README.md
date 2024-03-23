@@ -1,4 +1,4 @@
-<img src="http://fispl.in/image/website1.gif" />
+<img src="https://github.com/KalariyaMihir/16May_FE_Mihir/blob/main/readme.gif" />
 
  
 <h1 align="center">Hi 👋, I'm Mihir Kalariya</h1>
