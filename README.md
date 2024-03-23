@@ -1,4 +1,4 @@
-<img src="https://www.careerguide.com/career/wp-content/uploads/2021/08/coding-freak.gif" />
+<img src="http://fispl.in/image/website1.gif" />
 
  
 <h1 align="center">Hi 👋, I'm Mihir Kalariya</h1>
